@@ -5,6 +5,7 @@
 You want to know, how many people download your software? Chronicle provides a simple download logging mechanisms.
 
 At a glance
+
 *   Easy integration and configuration.
 *   Supports multiple downloads on multiple pages.
 *   Usage with form buttons and links.
