@@ -1,5 +1,6 @@
-h2.chronicle
-h3.PHP download logger
+#chronicle
+
+##PHP download logger
 
 You want to know, how many people download your software? Chronicle provides a simple download logging mechanisms.
 
